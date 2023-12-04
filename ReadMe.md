@@ -8,7 +8,7 @@
 
 This is the page for me to follow Fenerbahce football games, here ı check the games for each week.
 
-![logo](fenerbahce.png)
+![Logo of Fenerbahce](fenerbahce.png)
 
 Here is the link for their official website 
 [länk text](https://www.fenerbahce.org)
